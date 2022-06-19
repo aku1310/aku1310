@@ -3,7 +3,7 @@
 
 
 <p> I'm <b>Akanksha Kushwaha</b> from <b> Noida, India. </b> </p>
-<p>I am a 2nd year CSE student who is enthusiastic about <b>Web Development</b> and <b>Cyber Security</b>.<br> I am always looking forward to learning new technologies and implementing them!.</p>
+<p>I am a 3nd year CSE student who is enthusiastic about <b>Web Development</b> and <b>Cyber Security</b>.<br> I am always looking forward to learning new technologies and implementing them!.</p>
 <p>Currently learning <b>Backend Development</b> and <b>Databases</b>.<br> Will definitely try <b>Cloud Computing</b> and <b>Game Development</b> in the near future. </p>
 
 <p>Oh, and I also like to do <b>Competitive Programming!</b>🙋‍♀️</p>
