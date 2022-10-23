@@ -29,3 +29,8 @@
 
 <p><a href="https://github.com/aku1310" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/akankshakushwaha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<h2>GitHub Stats</h2>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aku1310&show_icons=true&locale=en&layout=compact&theme=omni" alt="aku1310" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aku1310&show_icons=true&locale=en&theme=omni" alt="aku1310" /> &nbsp <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aku1310&theme=omni" alt="aku1310" /></p>
