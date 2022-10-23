@@ -34,4 +34,5 @@
 <h2>GitHub Stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aku1310&show_icons=true&locale=en&layout=compact&theme=omni" alt="aku1310" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aku1310&show_icons=true&locale=en&theme=omni" alt="aku1310" /> &nbsp <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aku1310&theme=omni" alt="aku1310" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aku1310&show_icons=true&locale=en&theme=omni" alt="aku1310" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aku1310&theme=omni" alt="aku1310" /></p>
