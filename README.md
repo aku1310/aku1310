@@ -20,8 +20,9 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-6cc24a?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Springboot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
